@@ -12,6 +12,12 @@ Duration: 4 weeks
 
 Mentor:NEELA SANTHOSH
 
+Output:
+
+![Image](https://github.com/user-attachments/assets/f7359d7b-493f-4f75-94ae-07d77a73b970)
+![Image](https://github.com/user-attachments/assets/3798c7e7-5f5b-4c54-a241-082984872a62)
+![Image](https://github.com/user-attachments/assets/540779d3-1379-4922-bd97-ed19ea3a510e)
+
 Description of the project:
 
 Introduction
